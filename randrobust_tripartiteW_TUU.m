@@ -1,6 +1,6 @@
 %   authors:     Jessica Bavaresco
 %   last update: May, 2019
-%   requires:    Yalmip (https://yalmip.github.io) and QETLAB (http://www.qetlab.com)
+%   requires:    Yalmip (https://yalmip.github.io), MOSEK (https://www.mosek.com), and QETLAB (http://www.qetlab.com)
 
 function [q,w_bcyz_ABC,w_bcyz_BAC,eta] = randrobust_tripartiteW_TUU(W,B_by,M_cz,d)
 
