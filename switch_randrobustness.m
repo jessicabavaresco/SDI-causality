@@ -1,6 +1,6 @@
 %   authors:     Jessica Bavaresco
 %   last update: May, 2019
-%   requires:    Yalmip (https://yalmip.github.io) and QETLAB (http://www.qetlab.com)
+%   requires:    Yalmip (https://yalmip.github.io), MOSEK (https://www.mosek.com), and QETLAB (http://www.qetlab.com)
 
 function [eta_TTT,eta_UTT,eta_TTU,eta_TUU] = switch_randrobustness
 
