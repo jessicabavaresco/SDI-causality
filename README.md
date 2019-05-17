@@ -10,19 +10,19 @@ All code is written in MATLAB and requires:
 
 This repository consists in the following four SDPs plus a function that defines the quantum switch process and sets of instruments used in our work, and calculates the non-zero values of Table II.
 
-- [randrobust_tripartiteW_TTT]()
+- [randrobust_tripartiteW_TTT](https://github.com/jessicabavaresco/SDI-causality/blob/master/randrobust_tripartiteW_TTT.m)
 Calculates the $\eta^*$ of a tripartite process matrix in the TTT scenario.
 
-- [randrobust_tripartiteW_UTT]()
-Calculates a lower bound for $\eta^*$ of a tripartite process matrix in the UTT scenario, using a given set of instruments for Alice.
-
-- [randrobust_tripartiteW_TTU]()
+- [randrobust_tripartiteW_TTU](https://github.com/jessicabavaresco/SDI-causality/blob/master/randrobust_tripartiteW_TTU.m)
 Calculates a lower bound for $\eta^*$ of a tripartite process matrix in the TTU scenario, using a given set of POVMs for Charlie.
 
-- [randrobust_tripartiteW_TUU]()
+- [randrobust_tripartiteW_TUU](https://github.com/jessicabavaresco/SDI-causality/blob/master/randrobust_tripartiteW_TUU.m)
 Calculates a lower bound for $\eta^*$ of a tripartite process matrix in the TUU scenario, using a given set of instruments for Bob and a set of POVMs for Charlie.
 
-- [switch_randrobustness]()
+- [randrobust_tripartiteW_UTT](https://github.com/jessicabavaresco/SDI-causality/blob/master/randrobust_tripartiteW_UTT.m)
+Calculates a lower bound for $\eta^*$ of a tripartite process matrix in the UTT scenario, using a given set of instruments for Alice.
+
+- [switch_randrobustness](https://github.com/jessicabavaresco/SDI-causality/blob/master/switch_randrobustness.m)
 Defines the quantum switch process and the sets of instruments used in our work, provides them as input to the four previous SDPs and outputs the values of/bounds for $\eta^*$.
 
 
