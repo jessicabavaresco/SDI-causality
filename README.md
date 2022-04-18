@@ -1,4 +1,4 @@
-## Code to accompany *[Semi-device-independent certification of indefinite causal order](https://arxiv.org/abs/1903.10526)*
+## Code to accompany: *[Semi-device-independent certification of indefinite causal order](https://arxiv.org/abs/1903.10526)*
 #### Jessica Bavaresco, Mateus Araújo, Časlav Brukner, and Marco Túlio Quintino
 
 This is a repository for the code used to calculate the numerical results summarized in Table II of the article "*Semi-device-independent certification of indefinite causal order*, Jessica Bavaresco, Mateus Araújo, Časlav Brukner, Marco Túlio Quintino, [*Quantum* **3**, 176 (2019)](https://quantum-journal.org/papers/q-2019-08-19-176/), [arXiv:1903.10526 [quant-ph]](https://arxiv.org/abs/1903.10526)".
